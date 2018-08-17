@@ -8,7 +8,7 @@
 	/**
 	 * @namespace
 	 * @description <p>Library for making BLE programming easier.</p>
-	 * <p>It is safe practise to call function {@link evothings.scriptsLoaded}
+	 * <p>It is safe practise to call function {@link evothings.scriptsLoaded} ok
 	 * to ensure dependent libraries are loaded before calling functions
 	 * in this library.</p>
 	 */
